@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Hi I'm Olsen John Crucio
 
-<!--
-**ocrucio15/ocrucio15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 About Me
+
+🎓 **Education:**  
+University of Mindanao  
+Bachelor of Science in Computer Engineering
+
+🖥 **Skills:**  
+- **Programming Languages:** C, C++, Java, Kotlin, VB.NET, PHP, Python
+- **Machine Learning:** Experienced in Image Processing
+
+🚀 **Currently Learning:**  
+- Web Development 🌐
+- Data Analytics 📊
+- Cybersecurity 🔐
+
+---
+
+Feel free to explore my repositories and projects! Let's connect and collaborate on innovative solutions. 🚀
